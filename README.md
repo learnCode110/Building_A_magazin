@@ -1,2 +1,2 @@
-# Building_A_magazin
+# Building_a_magazin
 I have builded a Magazine website
